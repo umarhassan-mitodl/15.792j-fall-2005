@@ -3,8 +3,6 @@ content_type: page
 description: This section provides short descriptions of projects that Pro-Seminar
   students have done in the past that are available through the MIT Public Service
   Center.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
